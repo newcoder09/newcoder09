@@ -11,4 +11,14 @@
 
 <img align="right" alt="coding" width="400" src=https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif>
 
+
+
+
+
+
+![Codewars](https://github.r2v.ch/codewars?user=newcoder09)
+
+
+
+
 -->
