@@ -1,7 +1,6 @@
 ### Hi, I'm Elena. Thanks for visiting. I have just finished The School of Code Bootcamp and finding my way in the world of Tech. Right now i'm just eager to learn and keep moving forward!
 
-
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=coding+gif+funny&tbm=isch&ved=2ahUKEwiCkdCP8c_2AhWV0uAKHW4sBO8Q2-cCegQIABAA&oq=coding+gif&gs_lcp=CgNpbWcQARgBMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgQIABBDMgUIABCABFAAWABgghJoAHAAeACAAT-IAT-SAQExmAEAqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=5Jg0YoKPHJWlgwfu2JD4Dg&bih=786&biw=1512&hl=en>
 
 - 🔭 I’m currently working on my Github profile.
 - 🌱 I’m currently learning ...
