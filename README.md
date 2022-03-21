@@ -11,8 +11,7 @@
 
 - 🔭 I’m currently working on a React project.
 - 🌱 I’m currently learning about CI/CD pipeline, Azure Cloud Technology
-- 📫 How to reach me:
-- ⚡ Fun fact: I speak Spanish. 
+- ⚡ Fun fact: I am fluent in Spanish. 
 -->
 
 
