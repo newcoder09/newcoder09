@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m currently working on a React project.
-- 🌱 I’m currently learning about CI/CD pipeline, Azure Cloud Technology
+- 🔭 I’m currently working on a Javascript project.
+- 🌱 I’m currently learning about AWS.
 - ⚡ Fun fact: I am fluent in Spanish. 
 -->
 
