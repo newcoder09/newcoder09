@@ -5,7 +5,7 @@
 ### I have just finished The School of Code Bootcamp and finding my way in the world of Tech.
 ### Right now i'm just eager to learn and to keep moving forward!
 
-You can view my portfolio at https://www.elenasouto.co.uk
+You can view my portfolio at www.elenasouto.co.uk
 
 
 
